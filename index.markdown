@@ -18,7 +18,6 @@ My CV in english and german.
 
 Other Internet stuff:
 
-- [GitHub](https://github.io/fch)
 - [LinkedIn](https://www.linkedin.com/in/infoflo/)
 - [Twitter](https://twitter.com/fchdev)
 - [Wikipedia](https://de.wikipedia.org/wiki/User:Florian_Chudigiewitsch)
