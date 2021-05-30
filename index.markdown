@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-Hey! My name is Florian Chudigiewitsch and I'm currently a computer science student at Leibniz Uni Hannover, Germany.
+### Hey! My name is Florian Chudigiewitsch and I'm currently a computer science student at Leibniz Uni Hannover, Germany.
 
 I'm interested theoretical computer science, in particular:
 
