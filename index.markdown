@@ -6,25 +6,11 @@
 
 I'm interested theoretical computer science, in particular:
 
-- theory of computation and proof theory
-
-    <img src="img/proof.png" width="200">
-
-- (non-classical) logic
-
-    <img src="img/logic.png" width="200">
-
-- quantum computing
-
-    <img src="img/quantum.png" width="200">
-
-- type theory
-
-    <img src="img/type.png" width="200">
-
-- programming languages & paradigms
-
-    <img src="img/prog.png" width="200">
+| [theory of computation](https://plato.stanford.edu/entries/computability/) and [proof theory](https://plato.stanford.edu/entries/proof-theory/) | <img src="img/proof.png" width="200"> |
+| (non-classical) [l](https://plato.stanford.edu/entries/logic-linear/)[o](https://plato.stanford.edu/entries/logic-temporal/)[g](https://plato.stanford.edu/entries/logic-relevance/)[i](https://plato.stanford.edu/entries/logic-dependence/)[c](https://plato.stanford.edu/entries/logic-infinitary/) | <img src="img/logic.png" width="200"> |
+| [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) | <img src="img/quantum.png" width="200"> |
+| [type theory](https://ncatlab.org/nlab/show/type+theory) |  <img src="img/type.png" width="200"> |
+| [programming languages](https://en.wikipedia.org/wiki/Programming_language) & [paradigms](https://en.wikipedia.org/wiki/Functional_programming) | <img src="img/prog.png" width="200"> |
 
 Further topics of interest include (but are not limited to): mathematics, physics, music, linguistics, history and philosophy.
 
@@ -32,7 +18,4 @@ My CV in [english](doc/Florian_Chudigiewitsch_EN.pdf) and [german](doc/Florian_C
 
 Other Internet stuff:
 
-- [LinkedIn](https://www.linkedin.com/in/infoflo/)
-- [Twitter](https://twitter.com/fchdev)
-- [Wikipedia](https://de.wikipedia.org/wiki/User:Florian_Chudigiewitsch)
-- [StackExchange](https://stackexchange.com/users/18223839/florian-chudigiewitsch)
+[LinkedIn](https://www.linkedin.com/in/infoflo/), [Twitter](https://twitter.com/fchdev), [Wikipedia](https://de.wikipedia.org/wiki/User:Florian_Chudigiewitsch), [StackExchange](https://stackexchange.com/users/18223839/florian-chudigiewitsch)
