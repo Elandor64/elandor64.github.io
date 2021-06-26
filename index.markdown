@@ -10,7 +10,7 @@ I'm interested theoretical computer science, in particular:
 | (non-classical) [l](https://plato.stanford.edu/entries/logic-linear/)[o](https://plato.stanford.edu/entries/logic-temporal/)[g](https://plato.stanford.edu/entries/logic-relevance/)[i](https://plato.stanford.edu/entries/logic-dependence/)[c](https://plato.stanford.edu/entries/logic-infinitary/) | <img src="img/logic.png" width="200"> |
 | [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) | <img src="img/quantum.png" width="200"> |
 | [type theory](https://ncatlab.org/nlab/show/type+theory) |  <img src="img/type.png" width="200"> |
-| [programming languages](https://en.wikipedia.org/wiki/Programming_language) & [paradigms](https://en.wikipedia.org/wiki/Functional_programming) | <img src="img/prog.png" width="200"> |
+| [programming languages](https://en.wikipedia.org/wiki/Comparison_of_programming_languages) & [paradigms](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms) | <img src="img/prog.png" width="200"> |
 
 Further topics of interest include (but are not limited to): mathematics, physics, music, linguistics, history and philosophy.
 
